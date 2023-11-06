@@ -1,7 +1,7 @@
 
 body{
-    background: linear-gradient(45deg, #006494,#a4161a,#0b090a);
-    height: 100vh;
+    background: linear-gradient(45deg, #006494,rgb(163, 23, 28),#0b090a);
+    height: 100%;
 }
 header{
     position : fixed;
