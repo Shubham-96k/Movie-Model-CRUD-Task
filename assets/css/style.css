@@ -1,7 +1,10 @@
 
 body{
     background: linear-gradient(45deg, #006494,rgb(163, 23, 28),#0b090a);
-    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
 }
 header{
     position : fixed;
